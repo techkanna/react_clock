@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_clock/static/css/main.7cc7ce28.chunk.css",
+    "main.js": "/react_clock/static/js/main.1967d3ce.chunk.js",
+    "main.js.map": "/react_clock/static/js/main.1967d3ce.chunk.js.map",
+    "runtime~main.js": "/react_clock/static/js/runtime~main.8ee75040.js",
+    "runtime~main.js.map": "/react_clock/static/js/runtime~main.8ee75040.js.map",
+    "static/js/2.c5b7148a.chunk.js": "/react_clock/static/js/2.c5b7148a.chunk.js",
+    "static/js/2.c5b7148a.chunk.js.map": "/react_clock/static/js/2.c5b7148a.chunk.js.map",
+    "index.html": "/react_clock/index.html",
+    "precache-manifest.66981dabf709b27f33be50bb55c7b1fc.js": "/react_clock/precache-manifest.66981dabf709b27f33be50bb55c7b1fc.js",
+    "service-worker.js": "/react_clock/service-worker.js",
+    "static/css/main.7cc7ce28.chunk.css.map": "/react_clock/static/css/main.7cc7ce28.chunk.css.map"
+  }
+}
